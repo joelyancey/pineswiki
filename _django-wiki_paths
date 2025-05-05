@@ -1,0 +1,10 @@
+/home/it/pineswiki/django-wiki/src/wiki/templates/wiki
+Colors, etc:
+django-wiki/src/wiki/static/wiki/bootstrap/scss/_variables.scss
+
+CSS (django-wiki does not want this modified):
+static/wiki/bootstrap/css/wiki-bootstrap.min.css
+
+CSS used in templates as:
+<link href="{% static "wiki/bootstrap/css/wiki-bootstrap.min.css" %}" rel="stylesheet">
+

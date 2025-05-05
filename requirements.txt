@@ -1,0 +1,23 @@
+asgiref==3.8.1
+bleach==6.2.0
+Django==5.1.8
+django-classy-tags==4.1.0
+django-js-asset==3.1.2
+django-mptt==0.16.0
+django-nyt==1.4.2
+django-sekizai==4.1.0
+gunicorn==23.0.0
+Jinja2==3.1.6
+Markdown==3.6
+MarkupSafe==3.0.2
+packaging==25.0
+pillow==11.2.1
+psycopg2-binary==2.9.10
+pymdown-extensions==10.5
+python-dotenv==1.1.0
+PyYAML==6.0.2
+sorl-thumbnail==12.11.0
+sqlparse==0.5.3
+tinycss2==1.4.0
+webencodings==0.5.1
+-e git+ssh://git@github.com/django-wiki/django-wiki.git@663c9175f83a7630938c438130358f49b82e23f3#egg=wiki
