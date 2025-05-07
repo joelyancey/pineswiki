@@ -20,4 +20,4 @@ sorl-thumbnail==12.11.0
 sqlparse==0.5.3
 tinycss2==1.4.0
 webencodings==0.5.1
--e git+ssh://git@github.com/django-wiki/django-wiki.git@663c9175f83a7630938c438130358f49b82e23f3#egg=wiki
+-e git+ssh://git@github.com/joelyancey/django-pineswiki.git@1bb89dd57837b5e0efdf3c38b53878e1eaad0515#egg=wiki

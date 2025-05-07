@@ -23,6 +23,8 @@ from django.urls import reverse_lazy
 from dotenv import load_dotenv
 load_dotenv()
 
+SECRET_KEY = os.environ['SECRET_KEY']
+
 logger = logging.getLogger(__name__)
 
 SITE_ID = 1 #added in order to use Sites framework
